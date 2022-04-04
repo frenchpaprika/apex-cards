@@ -1,0 +1,507 @@
+[
+    {
+      "name": "Helmet lv. I",
+      "id": 14,
+      "class": "health",
+      "type": "armor",
+      "subType": "helmet",
+      "value": "20%",
+      "rarity": "common",
+      "search": "white helmet common armor helmet level 1 gear defense",
+      "description": [
+        {
+            "desTitle" : "Head Protector",
+            "desText" : "Level 1: Reduces the extra damage from headshots by 20%."
+        }
+      ],
+      "categories": ["Gear", "Defense"],
+      "imageBackground": "https://i.imgur.com/LU91f38.png",
+      "imageForeground": "https://i.imgur.com/Ef2V1yx.png"
+  },
+  {
+    "name": "Helmet lv. II",
+    "id": 15,
+    "class": "health",
+    "type": "armor",
+    "subType": "helmet",
+    "value": "40%",
+    "rarity": "rare",
+    "search": "blue helmet rare armor helmet level 2 gear defense",
+    "description": [
+      {
+          "desTitle" : "Head Protector",
+          "desText" : "Level 2: Reduces the extra damage from headshots by 40%."
+      }
+    ],
+    "categories": ["Gear", "Defense"],
+    "imageBackground": "https://i.imgur.com/SBefSre.png",
+    "imageForeground": "https://i.imgur.com/Ef2V1yx.png"
+  },
+  {
+    "name": "Helmet lv. III",
+    "id": 16,
+    "class": "health",
+    "type": "armor",
+    "subType": "helmet",
+    "value": "50%",
+    "rarity": "epic",
+    "search": "purple helmet epic armor helmet level 3 gear defense",
+    "description": [
+      {
+          "desTitle" : "Head Protector",
+          "desText" : "Level 3: Reduces the extra damage from headshots by 50%."
+      }
+    ],
+    "categories": ["Gear", "Defense"],
+    "imageBackground": "https://i.imgur.com/n3NYrmh.png",
+    "imageForeground": "https://i.imgur.com/Ef2V1yx.png"
+  },
+  {
+    "name": "Golden Helmet",
+    "id": 17,
+    "class": "health",
+    "type": "armor",
+    "subType": "helmet",
+    "value": "50%",
+    "rarity": "legendary",
+    "search": "legendary armor gold helmet golden helmet level 4 gear defense",
+    "description": [
+      {
+          "desTitle" : "Head Protector",
+          "desText" : "Level 4: Reduces the extra damage from headshots by 50%."
+      },
+      {
+          "desTitle" : "Fast Charge",
+          "desText" : "Reduces the extra damage from headshots by 50%."
+      }
+    ],
+    "categories": ["Gear", "Defense"],
+    "imageBackground": "https://i.imgur.com/z1mhGyQ.png",
+    "imageForeground": "https://i.imgur.com/Ef2V1yx.png"
+  },
+  {
+    "name": "Knockdown Shield lv. I",
+    "id": 18,
+    "class": "health",
+    "type": "armor",
+    "subType": "knockdown",
+    "value": 200,
+    "rarity": "common",
+    "search": "white knowdown shield common knockdown shield level 1 gear defense",
+    "description": [
+      {
+          "desTitle" : "Last Resort",
+          "desText" : "Directional damage protection while knocked down. (Max: 200 Damage)"
+      }
+    ],
+    "categories": ["Gear", "Defense"],
+    "imageBackground": "https://i.imgur.com/LU91f38.png",
+    "imageForeground": "https://i.imgur.com/5yilwdz.png"
+  },
+  {
+  "name": "Knockdown Shield lv. II",
+  "id": 19,
+  "class": "health",
+  "type": "armor",
+  "subType": "knockdown",
+  "value": 450,
+  "rarity": "rare",
+  "search": "blue knowdown shield rare knockdown shield level 2 gear defense",
+  "description": [
+    {
+        "desTitle" : "Last Resort",
+        "desText" : "Directional damage protection while knocked down. (Max: 450 Damage)"
+    }
+  ],
+  "categories": ["Gear", "Defense"],
+  "imageBackground": "https://i.imgur.com/SBefSre.png",
+  "imageForeground": "https://i.imgur.com/5yilwdz.png"
+  },
+  {
+  "name": "Knockdown Shield lv. III",
+  "id": 20,
+  "class": "health",
+  "type": "armor",
+  "subType": "knockdown",
+  "value": 750,
+  "rarity": "epic",
+  "search": "purple knowdown shield epic knockdown shield level 3 gear defense",
+  "description": [
+    {
+        "desTitle" : "Last Resort",
+        "desText" : "Directional damage protection while knocked down. (Max: 750 Damage)"
+    }
+  ],
+  "categories": ["Gear", "Defense"],
+  "imageBackground": "https://i.imgur.com/n3NYrmh.png",
+  "imageForeground": "https://i.imgur.com/5yilwdz.png"
+  },
+  {
+  "name": "Golden Knockdown Shield",
+  "id": 21,
+  "class": "health",
+  "type": "armor",
+  "subType": "knockdown",
+  "value": 750,
+  "rarity": "legendary",
+  "search": "legendary knockdown shield level 4 golden knockdown shield gold knockdown shield gear defense",
+  "description": [
+    {
+        "desTitle" : "Last Resort",
+        "desText" : "Directional damage protection while knocked down. (Max: 750 Damage)"
+    },
+    {
+        "desTitle" : "Resurrection",
+        "desText" : "Can self-resurrect once. Ability consumed upon use."
+    }
+  ],
+  "categories": ["Gear", "Defense"],
+  "imageBackground": "https://i.imgur.com/z1mhGyQ.png",
+  "imageForeground": "https://i.imgur.com/5yilwdz.png"
+  },
+      {
+        "name": "EVO Armor lv. I",
+        "id": 1,
+        "class": "health",
+        "type": "armor",
+        "subType": "body",
+        "value": 50,
+        "rarity": "common",
+        "search": "white armor white body shield common evo armor level 1 body shield level 1 gear defense",
+        "description": [
+          {
+              "desTitle" : "Body Shield",
+              "desText" : "Level 1: Absorbs 50 damage. Protects the wearer from incoming artillery or gunfire."
+          },
+          {
+              "desTitle" : "Evolve",
+              "desText" : "Deal 150 damage to evolve to level 2."
+          }
+        ],
+        "categories": ["Gear", "Defense"],
+        "imageBackground": "https://i.imgur.com/LU91f38.png",
+        "imageForeground": "https://i.imgur.com/5v4Yics.png"
+      },
+      {
+        "name": "EVO Armor lv. II",
+        "id": 2,
+        "class": "health",
+        "type": "armor",
+        "subType": "body",
+        "value": 75,
+        "rarity": "rare",
+        "search": "blue armor blue body shield rare evo armor level 2 body shield level 2 gear defense",
+        "description": [
+          {
+              "desTitle" : "Body Shield",
+              "desText" : "Level 2: Absorbs 75 damage. Protects the wearer from incoming artillery or gunfire."
+          },
+          {
+              "desTitle" : "Evolve",
+              "desText" : "Deal 300 damage to evolve to level 3."
+          }
+        ],
+        "categories": ["Gear", "Defense"],
+        "imageBackground": "https://i.imgur.com/SBefSre.png",
+        "imageForeground": "https://i.imgur.com/5v4Yics.png"
+      },
+      {
+          "name": "EVO Armor lv. III",
+          "id": 3,
+          "class": "health",
+          "type": "armor",
+          "subType": "body",
+          "value": 100,
+          "rarity": "epic",
+          "search": "purple armor purple body shield epic evo armor level 3 body shield level 3 gear defense",
+          "description": [
+            {
+                "desTitle" : "Body Shield",
+                "desText" : "Level 3: Absorbs 100 damage. Protects the wearer from incoming artillery or gunfire."
+            },
+            {
+                "desTitle" : "Evolve",
+                "desText" : "Deal 750 damage to evolve to level 5."
+            }
+          ],
+          "categories": ["Gear", "Defense"],
+          "imageBackground": "https://i.imgur.com/n3NYrmh.png",
+          "imageForeground": "https://i.imgur.com/5v4Yics.png"
+      },
+      {
+          "name": "EVO Armor lv. V",
+          "id": 4,
+          "class": "health",
+          "type": "armor",
+          "subType": "body",
+          "value": 125,
+          "rarity": "mythic",
+          "search": "red armor red body shield heirloom mythic evo armor level 5 body shield level 5 gear defense",
+          "description": [
+            {
+                "desTitle" : "Body Shield",
+                "desText" : "MAX level: Absorbs 125 damage. Protects the wearer from incoming artillery or gunfire."
+            }
+          ],
+          "categories": ["Gear", "Defense"],
+          "imageBackground": "https://i.imgur.com/oOE9l0R.png",
+          "imageForeground": "https://i.imgur.com/5v4Yics.png"
+      },
+      {
+          "name": "Golden Armor",
+          "id": 5,
+          "class": "health",
+          "type": "armor",
+          "subType": "body",
+          "value": 100,
+          "rarity": "legendary",
+          "search": "legendary gold golden armor golden body shield gold body shield level 4 gear defense",
+          "description": [
+            {
+                "desTitle" : "Body Shield",
+                "desText" : "Level 4: Absorbs 100 damage. Protects the wearer from incoming artillery or gunfire."
+            },
+            {
+                "desTitle" : "Improved Healing",
+                "desText" : "2x more healing with small regen items."
+            }
+          ],
+          "categories": ["Gear", "Defense"],
+          "imageBackground": "https://i.imgur.com/z1mhGyQ.png",
+          "imageForeground": "https://i.imgur.com/Pnyx3HH.png"
+      },
+      {
+          "name": "Shield Cell",
+          "id": 6,
+          "class": "health",
+          "type": "regen",
+          "subType": "shield",
+          "value": 25,
+          "rarity": "common",
+          "search": "heals shield cell common regen",
+          "description": [
+            {
+                "desTitle" : "Regen",
+                "desText" : "Restores 25 shield points"
+            }
+          ],
+          "categories": ["Regen", "Shield"],
+          "imageBackground": "https://i.imgur.com/0iU9A0n.png",
+          "imageForeground": "https://i.imgur.com/nGqp79d.png"
+      },
+      {
+          "name": "Shield Battery",
+          "id": 7,
+          "class": "health",
+          "type": "regen",
+          "subType": "shield",
+          "value": 125,
+          "rarity": "rare",
+          "search": "heals shield battery rare regen",
+          "description": [
+            {
+                "desTitle" : "Regen",
+                "desText" : "Restores 125 shield points"
+            }
+          ],
+          "categories": ["Regen", "Shield"],
+          "imageBackground": "https://i.imgur.com/aoeFEVQ.png",
+          "imageForeground": "https://i.imgur.com/TIAEhGE.png"
+      },
+      {
+          "name": "Syringe",
+          "id": 8,
+          "class": "health",
+          "type": "regen",
+          "subType": "health",
+          "value": 25,
+          "rarity": "common",
+          "search": "heals health syringe common regen",
+          "description": [
+            {
+                "desTitle" : "Regen",
+                "desText" : "Restores 25 health points."
+            }
+          ],
+          "categories": ["Regen", "Health"],
+          "imageBackground": "https://i.imgur.com/0iU9A0n.png",
+          "imageForeground": "https://i.imgur.com/AqOe55I.png"
+      },
+      {
+          "name": "Med Kit",
+          "id": 9,
+          "class": "health",
+          "type": "regen",
+          "subType": "health",
+          "value": 100,
+          "rarity": "rare",
+          "search": "heals health med kit rare regen",
+          "description": [
+            {
+                "desTitle" : "Regen",
+                "desText" : "Restores 100 health points."
+            }
+          ],
+          "categories": ["Regen", "Health"],
+          "imageBackground": "https://i.imgur.com/aoeFEVQ.png",
+          "imageForeground": "https://i.imgur.com/KC6RoYU.png"
+      },
+      {
+          "name": "Phoenix Kit",
+          "id": 10,
+          "class": "health",
+          "type": "regen",
+          "subType": "combo",
+          "value": null,
+          "rarity": "epic",
+          "search": "heals health shield phoenix kit epic combo regen",
+          "description": [
+            {
+                "desTitle" : "Rise from the ashes",
+                "desText" : "Restores 100 health points and 125 shield points."
+            }
+          ],
+          "categories": ["Regen", "Health"],
+          "imageBackground": "https://i.imgur.com/nLQhiQ2.png",
+          "imageForeground": "https://i.imgur.com/KE8K2lO.png"
+      },
+      {
+          "name": "Ultimate Accelerant",
+          "id": 11,
+          "class": "survival",
+          "type": null,
+          "subType": null,
+          "value": null,
+          "rarity": "common",
+          "search": "ultimate accelerant common survival",
+          "description": [
+            {
+                "desTitle" : "Charge",
+                "desText" : "Restores 35% Ultimate energy."
+            }
+          ],
+          "categories": ["Survival"],
+          "imageBackground": "https://i.imgur.com/0iU9A0n.png",
+          "imageForeground": "https://i.imgur.com/1zDsxMT.png"
+      },
+      {
+          "name": "Mobile Respawn Beacon",
+          "id": 12,
+          "class": "survival",
+          "type": null,
+          "subType": null,
+          "value": null,
+          "rarity": "rare",
+          "search": "mobile respawn beacon mobi res beacon rare survival",
+          "description": [
+            {
+                "desTitle" : "Call-in",
+                "desText" : "Deploys a respawn beacon at your position."
+            }
+          ],
+          "categories": ["Survival"],
+          "imageBackground": "https://i.imgur.com/aoeFEVQ.png",
+          "imageForeground": "https://i.imgur.com/i0ZwCmc.png"
+      },
+      {
+          "name": "Heat Shield",
+          "id": 13,
+          "class": "survival",
+          "type": null,
+          "subType": null,
+          "value": null,
+          "rarity": "common",
+          "search": "heat shield common survival",
+          "description": [
+            {
+                "desTitle" : "Redirection",
+                "desText" : "Protects you from incoming ring damage for a short time."
+            }
+          ],
+          "categories": ["Survival"],
+          "imageBackground": "https://i.imgur.com/0iU9A0n.png",
+          "imageForeground": "https://i.imgur.com/C4TXD5h.png"
+      },
+  {
+    "name": "Backpack lv. I",
+    "id": 22,
+    "class": "health",
+    "type": "armor",
+    "subType": "backpack",
+    "value": 12,
+    "rarity": "common",
+    "search": "white backpack common backpack level 1 gear",
+    "description": [
+      {
+          "desTitle" : "Increased Storage",
+          "desText" : "Carry 2 more items. Total storage capacity: 12."
+      }
+    ],
+    "categories": ["Gear"],
+    "imageBackground": "https://i.imgur.com/LU91f38.png",
+    "imageForeground": "https://i.imgur.com/bz7nO0T.png"
+  },
+  {
+    "name": "Backpack lv. II",
+    "id": 23,
+    "class": "health",
+    "type": "armor",
+    "subType": "backpack",
+    "value": 14,
+    "rarity": "rare",
+    "search": "blue backpack rare backpack level 2 gear",
+    "description": [
+      {
+          "desTitle" : "Increased Storage",
+          "desText" : "Carry 4 more items. Total storage capacity: 14."
+      }
+    ],
+    "categories": ["Gear"],
+    "imageBackground": "https://i.imgur.com/SBefSre.png",
+    "imageForeground": "https://i.imgur.com/Mr0jptE.png"
+  },
+  {
+    "name": "Backpack lv. III",
+    "id": 24,
+    "class": "health",
+    "type": "armor",
+    "subType": "backpack",
+    "value": 16,
+    "rarity": "epic",
+    "search": "purple backpack epic backpack level 3 gear",
+    "description": [
+      {
+          "desTitle" : "Increased Storage",
+          "desText" : "Carry 6 more items. Total storage capacity: 16."
+      }
+    ],
+    "categories": ["Gear"],
+    "imageBackground": "https://i.imgur.com/n3NYrmh.png",
+    "imageForeground": "https://i.imgur.com/jPZgCGJ.png"
+  },
+  {
+    "name": "Golden Backpack",
+    "id": 25,
+    "class": "health",
+    "type": "armor",
+    "subType": "backpack",
+    "value": 16,
+    "rarity": "legendary",
+    "search": "gold backpack golden backpack legendary backpack level 4 gear",
+    "description": [
+      {
+          "desTitle" : "Increased Storage",
+          "desText" : "Carry 6 more items. Total storage capacity: 16."
+      },
+      {
+        "desTitle" : "Guardian Angel",
+        "desText" : "Revive squadmates with bonux shield and health."
+    }
+    ],
+    "categories": ["Gear"],
+    "imageBackground": "https://i.imgur.com/z1mhGyQ.png",
+    "imageForeground": "https://i.imgur.com/jPZgCGJ.png"
+  }
+  ]
+  
+  

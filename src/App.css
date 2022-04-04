@@ -1,5 +1,14 @@
 .App {
-  text-align: center;
+  margin: 0 20vw 0 20vw;
+  background-color: antiquewhite;
+  min-height: 100vh;
+  padding-bottom: 30px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  justify-content: center;
 }
 
 .App-logo {
@@ -36,3 +45,42 @@
     transform: rotate(360deg);
   }
 }
+
+.header {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 25px;
+}
+
+.header > input {
+  border-radius: 20px;
+  border: 2px #ffffff solid;
+  padding: 10px;
+  width: 20vw;
+  font-size: 14px;
+  font-weight: 700;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.footer {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans;
+  color: rgb(65, 65, 65);
+  text-align: center;
+  background-color: rgb(196, 196, 196);
+  margin: 770px auto 0px auto;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  width: 480px;
+  border-radius: 20px;
+}
+
+.footer > a:link,
+.footer > a:visited {
+  color: rgb(53, 53, 182);
+  text-decoration: none;
+  font-weight: 550;
+}
+
+/*
+https://imgur.com/a/Necz9ka
+*/
